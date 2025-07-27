@@ -83,9 +83,29 @@ In scenarios where internet access is unavailable, unreliable, or unnecessary �
 
 ---
 
+## 🖼️ Photos & Demo Video
+
+- 📸 Images of setup: https://drive.google.com/drive/u/2/folders/1ypZgc1ZwAP9ysL6jzwiiMMbVbfobJpTz
+- 🎬 Video example showing live demonstration: [https://youtube.com/shorts/oqO0TcnPETA?feature=shared](https://youtube.com/shorts/v-_I1FG31PU?feature=share)
+
+---
+
 ## 🧠 Conclusion
 
 This project provides a lightweight, reliable solution for direct messaging between ESP32 devices without any Wi-Fi infrastructure. Ideal for demonstrating **peer-to-peer communication**, **IoT messaging systems**, and **offline alert systems** in a small range and low-power context.
+
+---
+
+## 🧾 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## 🙋‍♂️ Author
+
+**Harsh Vardhan Saini** — IoT Enthusiast & Developer  
+Connect with me on [GitHub](https://github.com/Cat-sauce), [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-17b870334/)
 
 ---
 
